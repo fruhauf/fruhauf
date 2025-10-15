@@ -1,0 +1,2 @@
+[console_scripts]
+price-compare = price_comparer.cli:main

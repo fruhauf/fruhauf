@@ -1,0 +1,16 @@
+README.md
+pyproject.toml
+src/price_comparer/__init__.py
+src/price_comparer/cli.py
+src/price_comparer/compare.py
+src/price_comparer/fetch.py
+src/price_comparer/models.py
+src/price_comparer/parse.py
+src/price_comparer.egg-info/PKG-INFO
+src/price_comparer.egg-info/SOURCES.txt
+src/price_comparer.egg-info/dependency_links.txt
+src/price_comparer.egg-info/entry_points.txt
+src/price_comparer.egg-info/requires.txt
+src/price_comparer.egg-info/top_level.txt
+tests/test_cli.py
+tests/test_parse.py
